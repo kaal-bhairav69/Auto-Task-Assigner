@@ -1,5 +1,9 @@
 # 🧠 Meeting Task Extractor using Whisper & spaCy
 
+<p align="center">
+  <img src="assets/Screenshot 2025-04-09 010219.png" width="85%">
+</p>
+
 # 🧠 Meeting Task Extractor using Whisper & spaCyThis project takes meeting audio, converts it to text using OpenAI Whisper, and then extracts clear, actionable tasks using spaCy and custom NLP logic. Each person in the meeting gets exactly one consolidated task.
 
 ## 🚀 Features
